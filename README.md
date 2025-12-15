@@ -5,6 +5,7 @@
 **AI Content Generator** is a web-based application that allows users to generate high-quality educational content instantly using AI. The system can create summaries, key points, quizzes, examples, full assignments, and explanations for both kids and experts. This project is built with **PHP**, **MySQL**, **HTML**, **CSS**, and integrates **Google Gemini AI API** for content generation.
 
 ---
+![imagealt](https://github.com/izhansajiddeveloper/ai-content-generator/blob/89f22d2b5dbf59c701747e262c4745bbf55aa1a0/web1.png)
 
 ## 🔹 Features
 
