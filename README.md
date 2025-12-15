@@ -23,6 +23,8 @@
 - **Copy to Clipboard** – Quickly copy content for use elsewhere.
 - **Category & Difficulty Selection** – Customize generated content based on your preferences.
 
+![image alt](https://github.com/izhansajiddeveloper/ai-content-generator/blob/68cbf0e57f3fb775b834f52e67da5494d160a698/WEB2.png)
+
 ---
 
 ## 🔹 Technologies Used
