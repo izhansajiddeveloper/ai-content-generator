@@ -34,7 +34,7 @@
 - **AI Integration**: Google Gemini AI API  
 - **PDF Generation**: TCPDF Library  
 
----
+![image alt](https://github.com/izhansajiddeveloper/ai-content-generator/blob/7319e68667c63ba9e92f5653ade356062e71d10e/WEB3.png)
 
 ## 🔹 Installation & Setup
 
