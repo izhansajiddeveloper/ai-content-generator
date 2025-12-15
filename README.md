@@ -36,9 +36,50 @@
 
 ![image alt](https://github.com/izhansajiddeveloper/ai-content-generator/blob/7319e68667c63ba9e92f5653ade356062e71d10e/WEB3.png)
 
-## 🔹 Installation & Setup
+Installation & Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/izhansajiddeveloper/ai-content-generator.git
-   cd ai-content-generator
+Clone the repository:
+
+git clone https://github.com/izhansajiddeveloper/ai-content-generator.git
+cd ai-content-generator
+
+
+Install dependencies (if any):
+
+Make sure PHP and MySQL are installed.
+
+Ensure cURL and openssl are enabled in PHP.
+
+Create a database in MySQL (e.g., ai_content_db) and import the database.sql file if provided.
+
+Configure the database:
+
+Open includes/db.php.
+
+Set your MySQL username, password, and database name.
+
+Set your Google Gemini API key:
+
+Open includes/openai.php.
+
+Replace the placeholder API key with your own.
+
+Important: Do not commit API keys to public repositories. Use environment variables or .env files.
+
+Run the project:
+
+Start your local server (XAMPP, WAMP, or similar).
+
+Visit http://localhost/ai-content-generator in your browser.
+
+🔹 Usage
+
+Register or Login.
+
+Paste your content in the generator text box.
+
+Select category, difficulty, and output type.
+
+Click Generate to get AI-powered content.
+
+Copy, download as PDF, or save for later.
